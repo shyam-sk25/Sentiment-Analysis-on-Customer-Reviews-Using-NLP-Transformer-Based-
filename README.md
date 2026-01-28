@@ -54,5 +54,48 @@ Instead of analyzing only overall sentiment, the system identifies **specific pr
 
 ### 5. Aspect Normalization
 - Grouped raw aspects into business-level categories:
-  - Product Qu
+  - Product Quality
+  - Value for Money
+  - Purchase Experience
+  - Delivery
+  - Packaging
+  - Other (emerging / uncategorized aspects)
 
+---
+
+## 📈 Key Insights
+- **Product Quality** is the strongest driver of both positive and negative sentiment
+- **Value for Money** reflects high price sensitivity in the Indian market
+- **Purchase Experience, Delivery, and Packaging** show stable positive sentiment
+- The **Other** category reveals emerging issues such as noise, cooling performance, and build quality
+
+---
+
+## 📊 Visualization
+A final visualization summarizes sentiment distribution across normalized aspects, enabling quick identification of priority improvement areas.
+
+---
+
+## 🚀 Conclusion
+This project demonstrates how **aspect-based sentiment analysis transforms unstructured reviews into decision-ready insights**.  
+The approach is scalable and can be extended to real-time customer feedback systems in e-commerce and customer experience analytics.
+
+---
+
+## 🧰 Tech Stack
+- Python
+- Pandas, NumPy
+- NLTK
+- Matplotlib
+
+---
+
+## 📌 Future Enhancements
+- Automate aspect refinement using clustering or embeddings
+- Scale aspect extraction to full dataset
+- Integrate real-time review streams
+
+---
+
+## 👤 Author
+Shyam Kumar  
