@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Analysis on Indian E-commerce Reviews
+# Sentiment Analysis on Flipkart Customer Reviews Using NLP and Machine Learning
 
 ## 📌 Project Overview
 This project implements an **Aspect-Based Sentiment Analysis (ABSA)** system on large-scale Indian e-commerce customer reviews.  
