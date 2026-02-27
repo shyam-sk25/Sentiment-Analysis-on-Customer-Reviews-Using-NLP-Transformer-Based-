@@ -138,9 +138,11 @@ The trained model was saved using `save_pretrained()` and deployed using **Strea
 - Real-time sentiment prediction  
 - Product name & rating input  
 - Confidence score visualization  
-- Rating–Sentiment mismatch detection  
+- Rating–Sentiment mismatch detection
+ 
 
 This demonstrates practical model serving capability.
+<img width="1361" height="675" alt="SEBTIMENTAL ANALYSIS" src="https://github.com/user-attachments/assets/1134c91e-d7f7-4c2a-8f3c-c459e6c2941e" />
 
 ---
 
@@ -155,6 +157,7 @@ After generating predictions for 20,000 representative reviews, a Power BI dashb
 - Key Business Insights  
 
 This bridges Machine Learning with real-world decision-making analytics.
+<img width="871" height="486" alt="Sentiment Analysis on Customer Reviews" src="https://github.com/user-attachments/assets/cd2ed03e-3817-404b-8754-b0e95eecaaff" />
 
 ---
 
